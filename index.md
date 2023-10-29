@@ -12,7 +12,7 @@ title: Student Blog
 <p style="padding-left: 300px; padding-right: 300px">Howdy! My name is Emma Shen and I'm a senior at Del Norte High. I'm interested in studying HCI and pursuing a career in UI/UX development. In my free time, I like playing tennis, listening to wave to earth, and exploring new food and pretty nature places in San Diego. My family & friends are the center of my life!</p>
 
 <h3 style="text-align: center; color: #e06666">ACADEMICS</h3>
-<p style="padding-left: 420px; padding-right: 420px">
+<p style="padding-left: 300px; padding-right: 300px">
 I love learning about <u>visual computing</u> and <u>cognitive perception</u> to investigate human behavior’s connection to digital interactions! I hope to perfect the craft of immersive interfaces 🧠 💻
 <br>
 <br>
@@ -32,7 +32,7 @@ I also have a non-career oriented fascination for <u>religious studies</u>! Insp
 </p>
 
 <h3 style="text-align: center; color: #c90076">PERSONAL LINKS</h3>
-<p style="padding-left: 420px; padding-right: 420px">
+<p style="padding-left: 300px; padding-right: 399px">
 ⭐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A project I started last June that means so much to me: <a href="https://academicsandathleticsforall.org">Academics & Athletics for All</a>
 <br>
 📧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Email</b>: emmashen2024[at]gmail[dot]com
