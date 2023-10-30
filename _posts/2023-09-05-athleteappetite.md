@@ -3,8 +3,8 @@ title: Athlete Appetite
 layout: base
 categories: [C4.9]
 tags: [javascript]
-courses: {csa: {week: 3} }
-type: tangibles
+courses: {csa: {week: 9} }
+type: hacks
 ---
 
 Deployed website: https://lunaiwa.github.io/A.A./
