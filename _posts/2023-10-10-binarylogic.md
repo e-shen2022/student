@@ -2,8 +2,8 @@
 layout: post
 title: U3 Boolean Logic
 description: Lesson on boolean logics!
-courses: {'csa': {'week': 1}}
-type: lessons
+courses: {'csa': {'week': 13}}
+type: hacks
 ---
 
 # Data Tables!
