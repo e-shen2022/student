@@ -1,6 +1,6 @@
 ---
 title: Athlete Appetite 
-layout: base
+layout: post
 categories: [C4.9]
 tags: [javascript]
 courses: {csa: {week: 9} }

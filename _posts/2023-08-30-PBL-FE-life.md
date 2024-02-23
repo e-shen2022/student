@@ -1,6 +1,6 @@
 ---
 title: Game of Life Game
-layout: base
+layout: post
 description: A remix of Conway's game of life using timer, onclick and algorithms.
 permalink: /frontend/life
 image: /images/game_of_life.svg
