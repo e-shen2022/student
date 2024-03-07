@@ -15,7 +15,7 @@ Ex. Our project may not have explicitly used 2D arrays, but I can see that we st
 
 <b>As the AP exam is approaching, I want to follow this schedule: </b>
 
-3/7 - 3/24 Watch U1-10 College Board videos, take notes, do practice MC questions. Here is link to my working [MC Content Study Guide]()
+3/7 - 3/24 Watch U1-10 College Board videos, take notes, do practice MC questions. Here is link to my working [MC Content Study Guide](https://e-shen2022.github.io/student/2024/03/07/apexamprep.html)
 
 3/25 - 5/5 This will be my schedule:
 
@@ -47,6 +47,15 @@ Result: I can truly grasp the abstract concepts by implementing them into my PBL
 
 <h2>AP Work</h2>
 
+Item | Link
+-- | --
+FRQ 1 | [FRQ 1 Code Completion, Notes, and Type Explanation](https://e-shen2022.github.io/student/2024/02/24/frq1_IPYNB_2_.html)
+FRQ 2 | [FRQ 2 Code Completion, Notes, and Type Explanation](https://e-shen2022.github.io/student/2024/02/24/frq2_IPYNB_2_.html)
+FRQ 3 | [FRQ 3 Code Completion, Notes, and Type Explanation](https://e-shen2022.github.io/student/2024/02/24/frq3_IPYNB_2_.html)
+FRQ 4 | [FRQ 4 Code Completion, Notes, and Type Explanation](https://e-shen2022.github.io/student/2024/02/24/frq4_IPYNB_2_.html)
+Issue | [CB & PBL Connections + Reflection](https://github.com/e-shen2022/student/issues/2)
+
 <h2>Project Work</h2>
 
+I am pretty excited for this trimester because I get to work with a team of people who are really motivated to do their own individual contributions to this project. I feel like this AP Exam / Course prep game will be genuinly useful for years to come. I think the main thing I can contribute is to facilitate discussion among each of the team members and organizing everyone's individual ideas into a cohesive concept. I also really want to experiment with cool game UI/UX design and also integrating cybergames as puzzle unlockers within their game map!
 
